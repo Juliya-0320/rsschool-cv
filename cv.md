@@ -36,8 +36,8 @@ I am a beginner frontend developer.  I like creating interactive and visually ap
 
 
 ##  **Code example**
-'''
+```
 multiply = function (a, b) {
   return a * b;
 }
-'''
+```

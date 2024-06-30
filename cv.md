@@ -34,3 +34,10 @@ I am a beginner frontend developer.  I like creating interactive and visually ap
 * Russian - Native
 * German - Beginner
 
+
+##  **Code example**
+'''
+multiply = function (a, b) {
+  return a * b;
+}
+'''
